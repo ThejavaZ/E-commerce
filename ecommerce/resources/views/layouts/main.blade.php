@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>E-commerce</title>
-    @vite(['resources/css/app.css', 'resources/js/index.tsx'])
+    @vite(['resources/css/app.css', 'resources/js/main.js'])
 </head>
 <body>
     <div id="app"></div>
